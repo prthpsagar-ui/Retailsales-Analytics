@@ -1,3 +1,0 @@
-I used Python with Pandas to perform deeper data transformation and cleaning. 
-I handled missing values, standardized text fields, converted inconsistent date formats, and created a revenue column for analysis. 
-Python helped me automate the cleaning process and prepare a structured, analysis-ready dataset for visualization.
