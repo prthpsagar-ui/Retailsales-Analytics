@@ -1,3 +1,0 @@
-Imported raw Excel data into SQL Server to structure and validate the dataset. 
-Cleaned missing values, removed duplicate records using logical filtering techniques, standardized region formatting, and ensured data consistency. 
-Performed analytical queries to calculate total revenue and evaluate region-wise sales performance, preparing the dataset for further transformation and visualization.
