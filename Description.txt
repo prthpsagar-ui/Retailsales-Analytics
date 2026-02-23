@@ -1,0 +1,3 @@
+Finally, I visualized the insights using Power BI. 
+I created card visuals to display key metrics such as total revenue and total orders, along with charts to analyze regional performance, product trends, and time-based sales patterns. 
+The interactive dashboard presents clear and actionable insights to support business decision-making.
