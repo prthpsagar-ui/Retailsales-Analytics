@@ -1,6 +1,6 @@
-# 🛒 Retail Sales Analytics Project
+Retail Sales Analytics Project
 
-## 📌 Project Overview
+Project Overview:
 
 This project analyzes a retail store’s sales dataset to evaluate business performance, revenue trends, and product profitability. The objective was to transform raw transactional data into meaningful business insights using:
 
@@ -12,7 +12,7 @@ This is a complete end-to-end data analytics project covering querying, transfor
 
 ---
 
-## 🎯 Problem Statement
+Problem Statement:
 
 The business wanted to analyze sales performance to answer key questions:
 
@@ -26,7 +26,7 @@ The analysis supports data-driven decision-making and business growth.
 
 ---
 
-## 🗂 Dataset Description
+Dataset Description:
 
 The dataset contains retail transactional data including:
 
@@ -41,13 +41,13 @@ The dataset contains retail transactional data including:
 
 ---
 
-# 🔄 Project Workflow
+Project Workflow-
 
-## 1️⃣ SQL Data Analysis
+SQL Data Analysis;
 
 The project began with SQL-based analysis of the raw dataset.
 
-### Tasks Performed:
+Tasks Performed:
 
 - Created database and imported tables  
 - Explored dataset structure and validated records  
@@ -68,11 +68,11 @@ The project began with SQL-based analysis of the raw dataset.
 
 ---
 
-## 2️⃣ Data Cleaning & Transformation (Python)
+Data Cleaning & Transformation (Python);
 
 After SQL analysis, Python was used for preprocessing and validation.
 
-### Tasks Performed:
+Tasks Performed:
 
 - Handled missing values  
 - Removed duplicate records  
@@ -87,11 +87,11 @@ After SQL analysis, Python was used for preprocessing and validation.
 
 ---
 
-## 3️⃣ Power BI Dashboard Development
+Power BI Dashboard;
 
 Finally, an interactive dashboard was built in Power BI.
 
-### Dashboard Features:
+Dashboard Features:
 
 - KPI Cards:
   - Total Revenue  
@@ -107,7 +107,7 @@ Finally, an interactive dashboard was built in Power BI.
 
 ---
 
-# 📊 Key KPIs
+Key KPIs-
 
 - Total Revenue  
 - Total Profit  
@@ -118,7 +118,7 @@ Finally, an interactive dashboard was built in Power BI.
 
 ---
 
-# 💼 Business Value Created
+Business Value Created;
 
 This project enables the business to:
 
@@ -131,7 +131,7 @@ This project enables the business to:
 
 ---
 
-# 🔍 Key Insights
+Key Insights;
 
 - A small percentage of products contribute to most revenue  
 - Certain regions generate higher profit margins  
@@ -140,7 +140,7 @@ This project enables the business to:
 
 ---
 
-# 🎯 Outcomes
+Outcomes;
 
 Through this project, I:
 
@@ -153,15 +153,15 @@ Through this project, I:
 
 ---
 
-# 🛠 Tools & Technologies Used
+Tools & Technologies Used;
 
 - SQL  
-- Python (Pandas, NumPy)  
+- Python (Pandas)  
 - Power BI  
 - Excel  
 
 ---
 
-# ✅ Conclusion
+Conclusion;
 
 This project demonstrates practical end-to-end data analytics skills — from SQL querying and Python-based data cleaning to building professional Power BI dashboards that generate actionable business insights.
