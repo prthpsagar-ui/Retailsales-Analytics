@@ -1,4 +1,9 @@
-# Retail Sales Analysis Project | SQL + Python + Power BI
+# Retail Sales Analytics
+
+SQL + Python + Power BI
+
+## Goal
+Help retail managers identify top products, seasonal trends, and revenue drivers to improve sales strategy.
 
 ## Project Overview
 
