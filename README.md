@@ -5,6 +5,10 @@ SQL + Python + Power BI
 ## Goal
 Help retail managers identify top products, seasonal trends, and revenue drivers to improve sales strategy.
 
+## Dashboard Preview
+
+![Retail Dashboard](images/dashboard.png)
+
 ## Project Overview
 
 This project analyzes retail sales data across multiple cities in India to understand business performance, product demand, customer purchasing behavior, and revenue trends.
