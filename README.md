@@ -90,16 +90,18 @@ The dataset contains retail transaction records including:
 
 - Order ID
 - Order Date
-- City and State
+- Region
 - Product Category
 - Product Name
-- Quantity Purchased
+- Quantity 
 - Unit Price
+- Sales amount
+- Profit
 - Discount Percentage
 - Payment Method
 - Customer Age
 
-The dataset initially contained **duplicates, missing values, and inconsistent records**, which were cleaned and transformed before analysis.
+The dataset initially contained **duplicates, missing values, and inconsistent records**, with total recors of 600+ which were cleaned and transformed before analysis.
 
 ---
 
@@ -124,18 +126,18 @@ The following operations were performed:
 
 - Removed duplicate records
 - Handled missing values
-- Corrected inconsistent city names
+- Standardized column names
 - Created calculated columns for total sales
 
-### Data Analysis
+### SQL Analysis
 
 Using SQL queries, the following analyses were performed:
 
-- Total revenue calculation
-- Total order count
-- Category-wise sales analysis
-- City-wise sales analysis
-- Product performance analysis
+- Total sales by category
+- Monthly sales trend
+- Top selling products
+- Region-wise sales
+- Product ranking using window functions
 - Average order value calculation
 - Filtering using WHERE and HAVING clauses
 - Aggregation using SUM, COUNT, AVG
@@ -189,40 +191,39 @@ The cleaned dataset was imported into **Power BI** to create an interactive busi
 
 This analysis helps retail businesses:
 
-- Identify top-performing product categories
-- Understand regional sales distribution
-- Track sales growth over time
-- Analyze customer purchasing behavior
-- Improve product inventory planning
-- Optimize pricing and discount strategies
+- Electronics category generated the highest revenue.
+- Sales peak during November and December.
+- West region contributes the largest share of total sales.
+- Top 10 products generate nearly 60% of revenue.
 
 ---
 
-# Key Insights Generated
+# Business Recommendations
 
-- Electronics category generated the highest revenue.
-- Bangalore contributed the largest share of total sales.
-- UPI emerged as the most commonly used payment method.
-- Sales showed higher activity during festive months.
-- A small number of products contributed to a large portion of total revenue.
+- Increase inventory before peak seasonal demand.
+- Focus marketing on high-performing categories.
+- Improve pricing strategy for low-profit products.
 
 These insights can help businesses **improve marketing strategies and optimize operations**.
 
 ---
 
-# Tools & Technologies Used
+# Project Workflow
 
-**SQL Server (SSMS)** → Data cleaning and business query analysis  
+## Project Workflow
 
-**Python (Pandas, NumPy, Matplotlib)** → Data processing and exploratory analysis  
-
-**Power BI** → Interactive dashboard and visualization  
-
-**Excel** → Raw data storage and initial inspection
-
+Raw Data (Excel)  
+⬇  
+Data Cleaning (SQL)  
+⬇  
+Exploratory Data Analysis (Python)  
+⬇  
+Visualization (Power BI)  
+⬇  
+Business Insights
 ---
 
-# Dashboard
+# Images
 
 Power BI dashboard screenshots are included in this repository.
 
